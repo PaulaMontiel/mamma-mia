@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mamma-mia/static/css/main.ec418712.css",
+    "main.js": "/mamma-mia/static/js/main.4eccf63f.js",
+    "static/media/pizza-hero.png": "/mamma-mia/static/media/pizza-hero.593003ddc61bc2aa5e5b.png",
+    "static/media/recipepizzaicon_109877.png": "/mamma-mia/static/media/recipepizzaicon_109877.8ccfb026162e726f162a.png",
+    "index.html": "/mamma-mia/index.html",
+    "main.ec418712.css.map": "/mamma-mia/static/css/main.ec418712.css.map",
+    "main.4eccf63f.js.map": "/mamma-mia/static/js/main.4eccf63f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec418712.css",
+    "static/js/main.4eccf63f.js"
+  ]
+}
