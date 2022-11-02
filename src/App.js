@@ -14,7 +14,7 @@ function App() {
 
   const [pizzas, setPizzas] = useState([]);
   const [cart, setCart] = useState([]);
-  const endpoint = '/pizzas.json';
+  const endpoint = '/mamma-mia/pizzas.json';
   const [cost, setCost] = useState(0);
 
   const consultarInformacion = async () => {
