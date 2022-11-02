@@ -1,0 +1,15 @@
+.active {
+    color: #f6e652 !important;
+    }
+.navbar-brand{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.Nav-link{
+    padding-right: 3em;
+    color: aliceblue;
+}
+.fa-solid{
+    color: aliceblue;
+}
