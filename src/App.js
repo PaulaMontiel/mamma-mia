@@ -33,7 +33,7 @@ function App() {
       <MyPizzaContext.Provider value={{ pizzas, setPizzas }}>
         <MyTotalAmountContext.Provider value={{ cost, setCost }}>
         <CartContext.Provider value={{ cart, setCart }}>
-          <BrowserRouter>
+          <BrowserRouter basename='mamma-mia'>
             <Navbar cost = { cost }/>
             <Routes>
               <Route path="/" element={<Home />} />
